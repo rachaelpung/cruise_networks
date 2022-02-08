@@ -15,4 +15,6 @@ The R scripts to perform the analysis and plots in the code folder.
 ## Citation
 Published analysis can be found [here](add hyperlink).
 
+For references to the code, please use https://doi.org/10.5281/zenodo.6009027
+
 If you plan to build on or cite this preliminary analysis for an academic publication, please ensure that you credit the underlying data sources above appropriately.
