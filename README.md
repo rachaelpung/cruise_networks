@@ -13,7 +13,7 @@ All other data are derived from the above two files or simulated.
 The R scripts to perform the analysis and plots in the code folder.
 
 ## Citation
-Published analysis can be found [here](add hyperlink).
+Published analysis can be found https://www.nature.com/articles/s41467-022-29522-y.
 
 For references to the code, please use https://doi.org/10.5281/zenodo.6009027
 
